@@ -170,5 +170,38 @@ class Solution21:
 
 class Solution1290:
     def getDecimalValue(self, head: ListNode) -> int:
+        """很简单的逻辑，没什么好注意的"""
+        # golang版 双百
+        # /**
+        #  * Definition for singly-linked list.
+        #  * type ListNode struct {
+        #  *     Val int
+        #  *     Next *ListNode
+        #  * }
+        #  */
+        # func getDecimalValue(head *ListNode) int {
+        #     sum := 0
+        #     if head.Next == nil{
+        #         return head.Val
+        #     }
+        #     for {
+        #         sum = head.Val + sum * 2
+        #         if head.Next == nil {
+        #             break
+        #         }
+        #         head = head.Next
+        #     }
+        #     return sum
+        # }
 
+        if head.next is None:
+            return head.val
 
+        sum = 0
+
+        while True:
+            sum = head.val + sum * 2
+            if head.next is None:
+                break
+            head = head.next
+        return sum

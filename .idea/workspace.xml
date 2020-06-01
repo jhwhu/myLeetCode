@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="055cb7ac-0c92-4c85-8daf-5c54ac668857" name="Default Changelist" comment="commit leetcode related">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/myLeetCode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linked_chain/chain_related.py" beforeDir="false" afterPath="$PROJECT_DIR$/linked_chain/chain_related.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1chRvaMBvCj6smylpJL5Uv67gv0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="055cb7ac-0c92-4c85-8daf-5c54ac668857" name="Default Changelist" comment="" />
+      <created>1590979069612</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590979069612</updated>
+      <workItem from="1590979074961" duration="778000" />
+    </task>
+    <task id="LOCAL-00001" summary="commit leetcode related">
+      <created>1590979248567</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590979248567</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit leetcode related" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit leetcode related" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="636" y="-940" key="CommitChangelistDialog2" timestamp="1590979248261">
+      <screen x="65" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="636" y="-940" key="CommitChangelistDialog2/0.0.1280.800/65.-1080.1920.1080@65.-1080.1920.1080" timestamp="1590979248261" />
+    <state x="625" y="-800" key="Vcs.Push.Dialog.v2" timestamp="1590979255532">
+      <screen x="65" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="625" y="-800" key="Vcs.Push.Dialog.v2/0.0.1280.800/65.-1080.1920.1080@65.-1080.1920.1080" timestamp="1590979255532" />
+  </component>
+</project>
