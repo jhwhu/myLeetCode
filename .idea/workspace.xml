@@ -2,20 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="055cb7ac-0c92-4c85-8daf-5c54ac668857" name="Default Changelist" comment="commit leetcode related">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/myLeetCode.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linked_chain/chain_related.py" beforeDir="false" afterPath="$PROJECT_DIR$/linked_chain/chain_related.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_list/data_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_list/data_list.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -24,13 +24,45 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="data_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="myLeetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_list" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_list/data_list.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.data_list" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -43,6 +75,8 @@
       <option name="presentableId" value="Default" />
       <updated>1590979069612</updated>
       <workItem from="1590979074961" duration="778000" />
+      <workItem from="1591183251200" duration="3784000" />
+      <workItem from="1591228761465" duration="753000" />
     </task>
     <task id="LOCAL-00001" summary="commit leetcode related">
       <created>1590979248567</created>
@@ -51,24 +85,68 @@
       <option name="project" value="LOCAL" />
       <updated>1590979248567</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit leetcode related">
+      <created>1591231029112</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1591231029112</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit leetcode related" />
     <option name="LAST_COMMIT_MESSAGE" value="commit leetcode related" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="636" y="-940" key="CommitChangelistDialog2" timestamp="1590979248261">
-      <screen x="65" y="-1080" width="1920" height="1080" />
+    <state x="571" y="-940" key="CommitChangelistDialog2" timestamp="1591231028946">
+      <screen x="0" y="-1080" width="1920" height="1080" />
     </state>
     <state x="636" y="-940" key="CommitChangelistDialog2/0.0.1280.800/65.-1080.1920.1080@65.-1080.1920.1080" timestamp="1590979248261" />
-    <state x="625" y="-800" key="Vcs.Push.Dialog.v2" timestamp="1590979255532">
-      <screen x="65" y="-1080" width="1920" height="1080" />
+    <state x="571" y="-940" key="CommitChangelistDialog2/0.0.1440.900/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1591231028946" />
+    <state width="1878" height="366" key="GridCell.Tab.0.bottom" timestamp="1591232113769">
+      <screen x="0" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="366" key="GridCell.Tab.0.bottom/0.0.1440.900/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1591232113769" />
+    <state width="1878" height="366" key="GridCell.Tab.0.center" timestamp="1591232113767">
+      <screen x="0" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="366" key="GridCell.Tab.0.center/0.0.1440.900/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1591232113767" />
+    <state width="1878" height="366" key="GridCell.Tab.0.left" timestamp="1591232113766">
+      <screen x="0" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="366" key="GridCell.Tab.0.left/0.0.1440.900/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1591232113766" />
+    <state width="1878" height="366" key="GridCell.Tab.0.right" timestamp="1591232113768">
+      <screen x="0" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="366" key="GridCell.Tab.0.right/0.0.1440.900/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1591232113768" />
+    <state width="1878" height="366" key="GridCell.Tab.1.bottom" timestamp="1591232113698">
+      <screen x="0" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="366" key="GridCell.Tab.1.bottom/0.0.1440.900/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1591232113698" />
+    <state width="1878" height="366" key="GridCell.Tab.1.center" timestamp="1591232113697">
+      <screen x="0" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="366" key="GridCell.Tab.1.center/0.0.1440.900/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1591232113697" />
+    <state width="1878" height="366" key="GridCell.Tab.1.left" timestamp="1591232113696">
+      <screen x="0" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="366" key="GridCell.Tab.1.left/0.0.1440.900/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1591232113696" />
+    <state width="1878" height="366" key="GridCell.Tab.1.right" timestamp="1591232113698">
+      <screen x="0" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="366" key="GridCell.Tab.1.right/0.0.1440.900/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1591232113698" />
+    <state x="560" y="-800" key="Vcs.Push.Dialog.v2" timestamp="1591231037096">
+      <screen x="0" y="-1080" width="1920" height="1080" />
     </state>
     <state x="625" y="-800" key="Vcs.Push.Dialog.v2/0.0.1280.800/65.-1080.1920.1080@65.-1080.1920.1080" timestamp="1590979255532" />
+    <state x="560" y="-800" key="Vcs.Push.Dialog.v2/0.0.1440.900/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1591231037096" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/myLeetCode$data_list.coverage" NAME="data_list Coverage Results" MODIFIED="1591232113658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_list" />
   </component>
 </project>
